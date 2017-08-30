@@ -16,6 +16,8 @@
  
  - [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/Neural_Networks)
  
+ - [WILDML](http://www.wildml.com/)
+ 
  - [hum-kim : Korean ver.](https://hunkim.github.io/ml/)
  
  - [BEOMSU KIM'S BLOG](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
