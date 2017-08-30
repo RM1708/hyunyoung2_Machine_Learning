@@ -14,10 +14,19 @@
  
  - [colah's Blog](http://colah.github.io/archive.html)
  
+ - [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/Neural_Networks)
+ 
  - [hum-kim : Korean ver.](https://hunkim.github.io/ml/)
+ 
+ - [BEOMSU KIM'S BLOG](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
+
  
 ## Tutorial (DeepLearning Tool)
 
  - [TensorFlow](https://www.tensorflow.org/)
 
    - [Aymericdamien's TensorFlow Example](https://github.com/aymericdamien/TensorFlow-Examples)
+   
+## StackOverflow 
+
+ - [What does "vallina" mean](https://stats.stackexchange.com/questions/295180/what-does-vanilla-mean)
