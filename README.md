@@ -30,3 +30,5 @@
 ## StackOverflow 
 
  - [What does "vallina" mean](https://stats.stackexchange.com/questions/295180/what-does-vanilla-mean)
+
+ - [What is the epoch?](https://www.quora.com/What-is-an-epoch-in-deep-learning)
