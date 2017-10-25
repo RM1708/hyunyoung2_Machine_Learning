@@ -33,6 +33,8 @@
 
    - [Aymericdamien's TensorFlow Example](https://github.com/aymericdamien/TensorFlow-Examples)
    
+   - [Ritchie Ng](http://www.ritchieng.com/machine-learning/deep-learning/tensorflow/regularization/)
+   
 ## StackOverflow 
 
  - [What does "vallina" mean](https://stats.stackexchange.com/questions/295180/what-does-vanilla-mean)
