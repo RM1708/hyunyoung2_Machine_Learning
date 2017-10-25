@@ -8,11 +8,15 @@
  
    - [Andrej KarPathy Blog](http://karpathy.github.io/)
  
+ - [CS224n : Natural Language Processing with Deep learning](http://web.stanford.edu/class/cs224n/index.html)
+ 
  - [http://cs224d.stanford.edu/](http://cs224d.stanford.edu/)
  
  - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
  
  - [colah's Blog](http://colah.github.io/archive.html)
+ 
+ - [Sebastian Ruder's Blog](http://ruder.io/#open)
  
  - [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/Neural_Networks)
  
@@ -34,3 +38,13 @@
  - [What does "vallina" mean](https://stats.stackexchange.com/questions/295180/what-does-vanilla-mean)
 
  - [What is the epoch?](https://www.quora.com/What-is-an-epoch-in-deep-learning)
+ 
+## Quora 
+
+ - [What does "cross entropy" mean?](https://www.quora.com/Whats-an-intuitive-way-to-think-of-cross-entropy)
+ 
+## Word2Vec Library 
+ 
+  - [gensim's word2vec - python](https://radimrehurek.com/gensim/models/word2vec.html)
+  
+  - [DeepLearning4j for java and scala - Korea ver.](https://deeplearning4j.org/kr-index)
