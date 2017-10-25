@@ -31,7 +31,9 @@
 
  - [TensorFlow](https://www.tensorflow.org/)
 
-   - [Aymericdamien's TensorFlow Example](https://github.com/aymericdamien/TensorFlow-Examples)
+   - [Aymericdamien's Tensorflow Example](https://github.com/aymericdamien/TensorFlow-Examples)
+   
+   - [nlintz's Tensorflow tutorial](https://github.com/nlintz/TensorFlow-Tutorials)
    
    - [Ritchie Ng](http://www.ritchieng.com/machine-learning/deep-learning/tensorflow/regularization/)
    
