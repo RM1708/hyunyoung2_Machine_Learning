@@ -1,6 +1,6 @@
 # Machine_Learning
 
- - This repositary is for Information of Machine Learning and Deep Learning. Whenever I read The aritcle related to either Machine Learing and Deep Learning. I will Organize The information. Especailly, URL and notes related to Deep Learning, If you read it, it can help you undersanding them.  
+ - This repositary is for Information of Machine Learning and Deep Learning. Whenever I read the aritcle related to either Machine Learing or Deep Learning. I will organize the information. Especailly, URL and notes related to Deep Learning, If you read it, it can help you undersanding them.  
  
 ## Reference(Concept for Deep Learning)
 
