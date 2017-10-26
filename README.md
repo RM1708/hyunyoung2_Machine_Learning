@@ -52,3 +52,13 @@
   - [gensim's word2vec - python](https://radimrehurek.com/gensim/models/word2vec.html)
   
   - [DeepLearning4j for java and scala - Korea ver.](https://deeplearning4j.org/kr-index)
+  
+  For the understanding of Word2Vec : 
+   
+  - [Chris McCormick - Word2Vec Tutorial part1 : the Skip-gram](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+  
+  - [Chris McCormick - Word2Vec Tutorial part2 : Negative Sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
+
+  - [Word Embedding1 of ruder](http://ruder.io/word-embeddings-1/index.html)
+  
+  - [approach ruducing the cost of softmax in word embedding](http://ruder.io/word-embeddings-softmax/index.html)
