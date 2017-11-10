@@ -20,6 +20,8 @@
  
  - [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/Neural_Networks)
  
+ - [Another UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/)
+ 
  - [WILDML](http://www.wildml.com/)
  
  - [hum-kim : Korean ver.](https://hunkim.github.io/ml/)
@@ -53,7 +55,7 @@
   
   - [DeepLearning4j for java and scala - Korea ver.](https://deeplearning4j.org/kr-index)
   
-  For the understanding of Word2Vec : 
+  For the understanding of Word2Vec (in this site, it is easy to understand what word2vec is): 
    
   - [Chris McCormick - Word2Vec Tutorial part1 : the Skip-gram](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
   
