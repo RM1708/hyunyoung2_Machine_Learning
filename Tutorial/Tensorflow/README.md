@@ -2,7 +2,7 @@
 
 This github is for my practice with Tensorflow. 
 
-what I upload here is, sometime, imitated from Someone's github, After study or here is Arranged. 
+what I upload here is, sometimes, imitated from Someone's github, After study or here is Arranged. 
 
 In order for me to get used to Tensorflow and DeepLearning
 
