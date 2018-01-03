@@ -8,7 +8,7 @@ import os
 import tensorflow as tf
 
 # -- The version of Tensorflow is 1.3 --
-print ("The version of tensorflow : ", tf.__version__ , "\n")
+print("The version of tensorflow : ", tf.__version__ , "\n")
 
 name_dir="MNIST_Dataset"
 
@@ -29,7 +29,7 @@ if not os.path.exists(final_dir) :
     os.makedirs(final_dir)
     print(" '%s' exist " % final_dir)    
 
-print ("Creating a directory is done!")
+print("Creating a directory is done!")
 
 
 # TensorFlow github : https://github.com/tensorflow
@@ -59,4 +59,4 @@ validationY = mnist.validation.labels
 testX = mnist.test.images
 testY = mnist.test.labels
 
-print ("\nMNIST dataset Complete!")
+print("\nMNIST dataset Complete!")
