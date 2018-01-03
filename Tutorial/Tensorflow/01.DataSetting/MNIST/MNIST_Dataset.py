@@ -35,11 +35,16 @@ print ("Creating a directory is done!")
 # TensorFlow github : https://github.com/tensorflow
 # Download MNIST data set : 
 # the location related to MNIST's readfunction ->  tensorflow.contrib.learn.pyton.learn.datasets.mnist.py
-### Data Structure checking 28*28 = 784 , this means one of image is 784 as a array.
-### if you set "one_hot = True" up, when trainY[0] equals 7, print(trainY[0]) = [0. 0. 0. 0. 0. 0. 0. 1. 0. 0. ]
-### if you set "one_hot = False" up, when trainY[0] equals 7, print(trainY[0]) = 7
+# Data Structure checking 28*28 = 784 , this means one of image is 784 as a array.
+# if you set "one_hot = True" up, when trainY[0] equals 7, 
+# Index of array of trainY[0]   0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+#           print(trainY[0]) = [0. 0. 0. 0. 0. 0. 0. 1. 0. 0]
+# if you set "one_hot = False" up, when trainY[0] equals 7, 
+#      print(trainY[0]) = 7
+# Whatever variable is, it doesn't matter, If you enter a string.
+# after creating directory named the string you chose, MNIST data is saved under the directory.
 from tensorflow.examples.tutorials.mnist import input_data
-mnist = input_data.read_data_sets("final_dir", one_hot=True)
+mnist = input_data.read_data_sets(final_dir, one_hot=True)
 
 # Load Data 
 ## For training 
