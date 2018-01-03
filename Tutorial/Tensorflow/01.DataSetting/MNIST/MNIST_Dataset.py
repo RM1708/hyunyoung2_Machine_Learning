@@ -1,13 +1,16 @@
 # If you start the python setting 
 # help(os-python keyword)
 
-# -- the version of python : 3.5 --
 # -- MNIST data set -- 
 # In order to Create Directory to store material
 import os 
+import sys
 import tensorflow as tf
 
-# -- The version of Tensorflow is 1.3 --
+# -- The version of python is 3.5.2---
+print("The version of python:", sys.version)
+
+# -- The version of Tensorflow is 1.4 --
 print("The version of tensorflow : ", tf.__version__ , "\n")
 
 name_dir="MNIST_Dataset"
