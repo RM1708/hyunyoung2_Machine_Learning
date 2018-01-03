@@ -8,7 +8,7 @@ import sys
 import tensorflow as tf
 
 # -- The version of python is 3.5.2---
-print("The version of python:", sys.version)
+print("The version of python:", sys.version, "\n")
 
 # -- The version of Tensorflow is 1.4 --
 print("The version of tensorflow : ", tf.__version__ , "\n")
