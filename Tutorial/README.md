@@ -11,15 +11,15 @@
 
   Tensorflow:
 
-     - [Tensorflow's official site](https://www.tensorflow.org/get_started/) 
+   - [Tensorflow's official site](https://www.tensorflow.org/get_started/) 
 
-     - [nlintz's github](https://github.com/nlintz/TensorFlow-Tutorials)
+   - [nlintz's github](https://github.com/nlintz/TensorFlow-Tutorials)
 
-     - [pkmital's github](https://github.com/pkmital/tensorflow_tutorials)
+   - [pkmital's github](https://github.com/pkmital/tensorflow_tutorials)
 
-     - [aymericdamien](https://github.com/aymericdamien/TensorFlow-Examples)
+   - [aymericdamien](https://github.com/aymericdamien/TensorFlow-Examples)
 
-     - [Ritchie Ng](http://www.ritchieng.com/machine-learning/deep-learning/tensorflow/regularization/)
+   - [Ritchie Ng](http://www.ritchieng.com/machine-learning/deep-learning/tensorflow/regularization/)
 
  
  
