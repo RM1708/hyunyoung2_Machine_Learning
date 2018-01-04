@@ -15,5 +15,6 @@
  - Example Code
  
   - [r1.4_mnist softmax.py](https://github.com/tensorflow/tensorflow/blob/r1.4/tensorflow/examples/tutorials/mnist/mnist_softmax.py)
- 
+  
+  - [r1.4_mnist_deep.py](https://github.com/tensorflow/tensorflow/blob/r1.4/tensorflow/examples/tutorials/mnist/mnist_deep.py)
  
