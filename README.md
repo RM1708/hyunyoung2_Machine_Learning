@@ -6,54 +6,53 @@
 
   01. Tutorial : directory including how to use Machine Learning Framwork like Tensorflow, pytorch and so on.  
  
-## Reference(Concept for Deep Learning)
+# Reference(Concept for Deep Learning)
 
- - [CS231n : Convolution Neural Network for Visual Recognition](http://cs231n.stanford.edu/)
+  - [CS231n : Convolution Neural Network for Visual Recognition](http://cs231n.stanford.edu/)
  
-   - [Andrej KarPathy Blog](http://karpathy.github.io/)
+    - [Andrej KarPathy Blog](http://karpathy.github.io/)
  
- - [CS224n : Natural Language Processing with Deep learning](http://web.stanford.edu/class/cs224n/index.html)
+  - [CS224n : Natural Language Processing with Deep learning](http://web.stanford.edu/class/cs224n/index.html)
  
- - [http://cs224d.stanford.edu/](http://cs224d.stanford.edu/)
+  - [http://cs224d.stanford.edu/](http://cs224d.stanford.edu/)
  
- - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+  - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
  
- - [colah's Blog](http://colah.github.io/archive.html)
+  - [colah's Blog](http://colah.github.io/archive.html)
  
- - [Sebastian Ruder's Blog](http://ruder.io/#open)
+  - [Sebastian Ruder's Blog](http://ruder.io/#open)
  
- - [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/Neural_Networks)
+  - [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/Neural_Networks)
  
- - [Another UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/)
+  - [Another UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/)
  
- - [WILDML](http://www.wildml.com/)
+  - [WILDML](http://www.wildml.com/)
  
- - [hum-kim : Korean ver.](https://hunkim.github.io/ml/)
+  - [hum-kim : Korean ver.](https://hunkim.github.io/ml/)
  
- - [BEOMSU KIM'S BLOG](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
+  - [BEOMSU KIM'S BLOG](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
+ 
+# Tutorial (DeepLearning Tool)
 
- 
-## Tutorial (DeepLearning Tool)
+  - [TensorFlow](https://www.tensorflow.org/)
 
- - [TensorFlow](https://www.tensorflow.org/)
-
-   - [Aymericdamien's Tensorflow Example](https://github.com/aymericdamien/TensorFlow-Examples)
+    - [Aymericdamien's Tensorflow Example](https://github.com/aymericdamien/TensorFlow-Examples)
    
-   - [nlintz's Tensorflow tutorial](https://github.com/nlintz/TensorFlow-Tutorials)
+    - [nlintz's Tensorflow tutorial](https://github.com/nlintz/TensorFlow-Tutorials)
    
-   - [Ritchie Ng](http://www.ritchieng.com/machine-learning/deep-learning/tensorflow/regularization/)
+    - [Ritchie Ng](http://www.ritchieng.com/machine-learning/deep-learning/tensorflow/regularization/)
    
-## StackOverflow 
+# StackOverflow 
 
- - [What does "vallina" mean](https://stats.stackexchange.com/questions/295180/what-does-vanilla-mean)
+  - [What does "vallina" mean](https://stats.stackexchange.com/questions/295180/what-does-vanilla-mean)
 
- - [What is the epoch?](https://www.quora.com/What-is-an-epoch-in-deep-learning)
+  - [What is the epoch?](https://www.quora.com/What-is-an-epoch-in-deep-learning)
  
-## Quora 
+# Quora 
 
  - [What does "cross entropy" mean?](https://www.quora.com/Whats-an-intuitive-way-to-think-of-cross-entropy)
  
-## Word2Vec Library 
+# Word2Vec Library 
  
   - [gensim's word2vec - python](https://radimrehurek.com/gensim/models/word2vec.html)
   
