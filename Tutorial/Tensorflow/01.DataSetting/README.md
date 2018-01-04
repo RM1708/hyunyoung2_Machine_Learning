@@ -1,15 +1,27 @@
 # Data Setting
 
- When you classify the images and Materials for DeepLearing.
+  When you experiment Machine Learning and Deep Learning, You must need some dataset to do them. 
  
- So In here, I set up how to download the dataset about **MNIST, CIFAR-10, and CIFAR-100**.
+  In here, I set up how to download and gain the dataset about **MNIST, CIFAR-10, and CIFAR-100** Basically used in Machine learning.
+
+  Particulary, How to get them in Tensorflow.
  
- 
+# Index
+
+  image: directory containing images used in here while explaining.
+
+  MNIST: How to download MNIST dataset in Tensorflow 
+
+     - [MNIST_Dataset.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/Hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.DataSetting/MNIST/MNIST_Dataset.ipynb)[(MNIST_Dataset.py)](https://github.com/hyunyoung2/Hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.DataSetting/MNIST/MNIST_Dataset.py)
+
+  CIFAR_10: ~ing
+
+
 # Reference 
 
- [MNIST of Yann LeCun](http://yann.lecun.com/exdb/mnist/)
+  - [MNIST of Yann LeCun](http://yann.lecun.com/exdb/mnist/)
  
- [CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html)
+  - [CIFAR-10 and CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 
  

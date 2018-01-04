@@ -1,6 +1,13 @@
 # Word2Vec
 
-In order for me to arrange how to make Word Embedding and word2vec with Tensorflow. I created This directory. 
+  In order for me to arrange how to make Word Embedding and word2vec with Tensorflow. I created This directory. 
+
+# Index
+
+  [Word_Embedding.ipynb]()[(Word_Embedding.py)](): What is the word embedding?
+
+
+
 
 # Reference 
 
