@@ -10,7 +10,7 @@
 
   - [CS231n : Convolution Neural Network for Visual Recognition](http://cs231n.stanford.edu/)
  
-    - [Andrej KarPathy Blog](http://karpathy.github.io/)
+   - [Andrej KarPathy Blog](http://karpathy.github.io/)
  
   - [CS224n : Natural Language Processing with Deep learning](http://web.stanford.edu/class/cs224n/index.html)
  
