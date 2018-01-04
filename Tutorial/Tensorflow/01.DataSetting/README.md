@@ -8,13 +8,13 @@
  
 # Index
 
-  image: directory containing images used in here while explaining.
+  01. image: directory containing images used in here while explaining.
 
-  MNIST: How to download MNIST dataset in Tensorflow 
+  02. MNIST: How to download MNIST dataset in Tensorflow 
 
-   - [MNIST_Dataset.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/Hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.DataSetting/MNIST/MNIST_Dataset.ipynb)[(MNIST_Dataset.py)](https://github.com/hyunyoung2/Hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.DataSetting/MNIST/MNIST_Dataset.py)
+   2-01. [MNIST_Dataset.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/Hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.DataSetting/MNIST/MNIST_Dataset.ipynb)[(MNIST_Dataset.py)](https://github.com/hyunyoung2/Hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.DataSetting/MNIST/MNIST_Dataset.py)
 
-  CIFAR_10: ~ing
+  03. CIFAR_10: ~ing
 
 
 # Reference 
