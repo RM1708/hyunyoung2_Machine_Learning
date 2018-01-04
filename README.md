@@ -4,7 +4,7 @@
 
 # Index
 
-  Tutorial : directory including how to use Machine Learning Framwork like Tensorflow, pytorch and so on.  
+  01. Tutorial : directory including how to use Machine Learning Framwork like Tensorflow, pytorch and so on.  
  
 ## Reference(Concept for Deep Learning)
 
