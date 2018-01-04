@@ -2,5 +2,5 @@
 
 This is for reference of image of each file written with jupyter notebook.
 
-Particularly, For 01. DataSetting Directory
+Particularly, For 02. DataSetting Directory
 
