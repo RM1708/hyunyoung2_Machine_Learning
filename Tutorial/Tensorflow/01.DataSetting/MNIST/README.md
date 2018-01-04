@@ -4,7 +4,7 @@
   
 # Index
 
-  01. MNIST_Dataset.ipynb (MNIST_Dataset.py): What is MNIT? and then How can I download and use MNIST in Tensorflow?
+  01. [MNIST_Dataset.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/Hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.DataSetting/MNIST/MNIST_Dataset.ipynb) [(MNIST_Dataset.py)](): What is MNIT? and then How can I download and use MNIST in Tensorflow?
   
 # Reference
 
