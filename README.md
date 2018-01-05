@@ -10,7 +10,7 @@
 
   - [CS231n : Convolution Neural Network for Visual Recognition](http://cs231n.stanford.edu/)
  
-    - [Andrej KarPathy Blog](http://karpathy.github.io/)
+      - [Andrej KarPathy Blog](http://karpathy.github.io/)
  
   - [CS224n : Natural Language Processing with Deep learning](http://web.stanford.edu/class/cs224n/index.html)
  
@@ -30,17 +30,17 @@
  
   - [hum-kim : Korean ver.](https://hunkim.github.io/ml/)
  
-  - [BEOMSU KIM'S BLOG](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
+  - [BEOMSU KIM'S BLOG](hhttps://stackoverflow.com/questions/22385334/how-to-write-one-new-line-in-bitbucket-markdownttp://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
  
 # Tutorial (DeepLearning Tool)
 
   - [TensorFlow](https://www.tensorflow.org/)
 
-    - [Aymericdamien's Tensorflow Example](https://github.com/aymericdamien/TensorFlow-Examples)
+      - [Aymericdamien's Tensorflow Example](https://github.com/aymericdamien/TensorFlow-Examples)
    
-    - [nlintz's Tensorflow tutorial](https://github.com/nlintz/TensorFlow-Tutorials)
+      - [nlintz's Tensorflow tutorial](https://github.com/nlintz/TensorFlow-Tutorials)
    
-    - [Ritchie Ng](http://www.ritchieng.com/machine-learning/deep-learning/tensorflow/regularization/)
+      - [Ritchie Ng](http://www.ritchieng.com/machine-learning/deep-learning/tensorflow/regularization/)
    
 # StackOverflow 
 
@@ -50,7 +50,7 @@
  
 # Quora 
 
- - [What does "cross entropy" mean?](https://www.quora.com/Whats-an-intuitive-way-to-think-of-cross-entropy)
+  - [What does "cross entropy" mean?](https://www.quora.com/Whats-an-intuitive-way-to-think-of-cross-entropy)
  
 # Word2Vec Library 
  
