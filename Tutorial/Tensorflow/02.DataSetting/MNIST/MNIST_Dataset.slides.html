@@ -11906,7 +11906,7 @@ a.anchor-link {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="What-is-the-MNIST-?">What is the MNIST ?<a class="anchor-link" href="#What-is-the-MNIST-?">&#182;</a></h1><p>MNIST is digit images as a simple computer vision dataset. the images of this dataset consist of handwirtten digits like these :</p>
-<p><img src="https://raw.githubusercontent.com/hyunyoung2/hyunyoung2_Machine_Learning/master/Tutorial/Tensorflow/02.DataSetting/images/MNIST/MNIST.png" /></p>
+<p><img src="https://raw.githubusercontent.com/hyunyoung2/hyunyoung2_Machine_Learning/master/Tutorial/Tensorflow/02.DataSetting/images/MNIST/MNIST.png"></p>
 <p>It also includes labels for each image, letting us know which digit it is. For example, the labels for the above images ar 5, 0, 4, and 1. Basically, this dataset is comprised of digit  and the correponding label.</p>
 
 </div>
@@ -11954,7 +11954,7 @@ a.anchor-link {
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Each of images of MNIST is 28*28 pixels. If we interpret the each of images as a array, the size of a array is 28*28=784. it looks as follows.</p>
-<p><img src="https://raw.githubusercontent.com/hyunyoung2/hyunyoung2_Machine_Learning/master/Tutorial/Tensorflow/02.DataSetting/images/MNIST/MNIST-Matrix.png" /></p>
+<p><img src="https://raw.githubusercontent.com/hyunyoung2/hyunyoung2_Machine_Learning/master/Tutorial/Tensorflow/02.DataSetting/images/MNIST/MNIST-Matrix.png"></p>
 <p>After making 28*28 pixels into a array(784), we just interpert each of image as a vector in vector space. i.e The MNIST images are just a bunch of points in a 784-dimensional vector space.</p>
 <p>The below is how to download MNIST Dataset, When you want to implement tensorflow with MNIST.</p>
 
@@ -11979,7 +11979,7 @@ a.anchor-link {
 </div></section></section><section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[2]:</div>
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># If you start the python setting </span>
@@ -12027,7 +12027,7 @@ The version of tensorflow :  1.4.0
 </div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[9]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Let&#39;s make donwload path </span>
@@ -12078,7 +12078,7 @@ The version of tensorflow :  1.4.0
 </div></section></section><section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[15]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># TensorFlow github : https://github.com/tensorflow</span>
@@ -12112,10 +12112,10 @@ The version of tensorflow :  1.4.0
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Extracting /home/hyunyoung2/My_lab/Hyunyoung2_Machine_Learning/Tutorial/Tensorflow/01.DataSetting/MNIST/data/MNIST_Dataset/train-images-idx3-ubyte.gz
-Extracting /home/hyunyoung2/My_lab/Hyunyoung2_Machine_Learning/Tutorial/Tensorflow/01.DataSetting/MNIST/data/MNIST_Dataset/train-labels-idx1-ubyte.gz
-Extracting /home/hyunyoung2/My_lab/Hyunyoung2_Machine_Learning/Tutorial/Tensorflow/01.DataSetting/MNIST/data/MNIST_Dataset/t10k-images-idx3-ubyte.gz
-Extracting /home/hyunyoung2/My_lab/Hyunyoung2_Machine_Learning/Tutorial/Tensorflow/01.DataSetting/MNIST/data/MNIST_Dataset/t10k-labels-idx1-ubyte.gz
+<pre>Extracting /home/hyunyoung2/My_lab/hyunyoung2_Machine_Learning/Tutorial/Tensorflow/02.DataSetting/MNIST/data/MNIST_Dataset/train-images-idx3-ubyte.gz
+Extracting /home/hyunyoung2/My_lab/hyunyoung2_Machine_Learning/Tutorial/Tensorflow/02.DataSetting/MNIST/data/MNIST_Dataset/train-labels-idx1-ubyte.gz
+Extracting /home/hyunyoung2/My_lab/hyunyoung2_Machine_Learning/Tutorial/Tensorflow/02.DataSetting/MNIST/data/MNIST_Dataset/t10k-images-idx3-ubyte.gz
+Extracting /home/hyunyoung2/My_lab/hyunyoung2_Machine_Learning/Tutorial/Tensorflow/02.DataSetting/MNIST/data/MNIST_Dataset/t10k-labels-idx1-ubyte.gz
 
  MNIST download and extracting is done!
 </pre>
@@ -12128,7 +12128,7 @@ Extracting /home/hyunyoung2/My_lab/Hyunyoung2_Machine_Learning/Tutorial/Tensorfl
 </div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[5]:</div>
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Let&#39;s check how to comprise MNIST data from google library, tensorflow</span>
@@ -12175,7 +12175,7 @@ MNIST dataset Complete!
 </div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[12]:</div>
+<div class="prompt input_prompt">In&nbsp;[5]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># For test about what it looks </span>
@@ -12230,7 +12230,7 @@ TestY[0]: [ 0.  0.  0.  0.  0.  0.  0.  1.  0.  0.]
 </div></section></section><section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[17]:</div>
+<div class="prompt input_prompt">In&nbsp;[6]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># For checking what kind of type the value of trainY&#39;s lables is </span>
@@ -12266,10 +12266,10 @@ TestY[0]: [ 0.  0.  0.  0.  0.  0.  0.  1.  0.  0.]
 The type of traniY[0]: &lt;class &#39;numpy.ndarray&#39;&gt;
 The type of trainY[0][0]: &lt;class &#39;numpy.float64&#39;&gt;
 
-Extracting /home/hyunyoung2/My_lab/Hyunyoung2_Machine_Learning/Tutorial/Tensorflow/01.DataSetting/MNIST/data/MNIST_Dataset/train-images-idx3-ubyte.gz
-Extracting /home/hyunyoung2/My_lab/Hyunyoung2_Machine_Learning/Tutorial/Tensorflow/01.DataSetting/MNIST/data/MNIST_Dataset/train-labels-idx1-ubyte.gz
-Extracting /home/hyunyoung2/My_lab/Hyunyoung2_Machine_Learning/Tutorial/Tensorflow/01.DataSetting/MNIST/data/MNIST_Dataset/t10k-images-idx3-ubyte.gz
-Extracting /home/hyunyoung2/My_lab/Hyunyoung2_Machine_Learning/Tutorial/Tensorflow/01.DataSetting/MNIST/data/MNIST_Dataset/t10k-labels-idx1-ubyte.gz
+Extracting /home/hyunyoung2/My_lab/hyunyoung2_Machine_Learning/Tutorial/Tensorflow/02.DataSetting/MNIST/data/MNIST_Dataset/train-images-idx3-ubyte.gz
+Extracting /home/hyunyoung2/My_lab/hyunyoung2_Machine_Learning/Tutorial/Tensorflow/02.DataSetting/MNIST/data/MNIST_Dataset/train-labels-idx1-ubyte.gz
+Extracting /home/hyunyoung2/My_lab/hyunyoung2_Machine_Learning/Tutorial/Tensorflow/02.DataSetting/MNIST/data/MNIST_Dataset/t10k-images-idx3-ubyte.gz
+Extracting /home/hyunyoung2/My_lab/hyunyoung2_Machine_Learning/Tutorial/Tensorflow/02.DataSetting/MNIST/data/MNIST_Dataset/t10k-labels-idx1-ubyte.gz
 
 === what kind of type the values of lables===
 
