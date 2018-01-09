@@ -11,6 +11,8 @@
   02. [Variable.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/02.Variable.ipynb) [(Variable.py)](https://github.com/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/02.Variable.py): What is the Variable in Tensorflow?
   
   03. [Sharing_Variable.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/03.Sharing_Variable.ipynb): What is the sharing Variable in Tensorflow?
+  
+  04. [Graph_and_Session.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/04.Graph_and_Session.ipynb): What is the graph and session in Tensorflow?
 
 # Reference
 
