@@ -6,11 +6,11 @@
 
 # Index
 
-  01.[Tensor.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/01.Tensor.ipynb) [(Tensor.py)](https://github.com/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/01.Tensor.py): What is the tensor in Tensorflow?
+  01. [Tensor.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/01.Tensor.ipynb) [(Tensor.py)](https://github.com/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/01.Tensor.py): What is the tensor in Tensorflow?
   
-  02.[Variable.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/02.Variable.ipynb) [(Variable.py)](https://github.com/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/02.Variable.py): What is the Variable in Tensorflow?
+  02. [Variable.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/02.Variable.ipynb) [(Variable.py)](https://github.com/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/02.Variable.py): What is the Variable in Tensorflow?
   
-  03.[Sharing_Variable.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/03.Sharing_Variable.ipynb): What is the sharing Variable in Tensorflow?
+  03. [Sharing_Variable.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/03.Sharing_Variable.ipynb): What is the sharing Variable in Tensorflow?
 
 # Reference
 
