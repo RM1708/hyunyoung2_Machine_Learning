@@ -4,7 +4,7 @@
 
 # Index
 
-  01. [Word_Embedding.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/03.Word2Vec/01.Word_Embedding.ipynb)[(Word_Embedding.py)](): What is the word embedding?
+  01. [Word_Embedding.ipynb](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/03.Word2Vec/01.Word_Embedding.ipynb) [(Word_Embedding.py)](https://github.com/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/03.Word2Vec/01.Word_Embedding.py): What is the word embedding?
 
 
 
