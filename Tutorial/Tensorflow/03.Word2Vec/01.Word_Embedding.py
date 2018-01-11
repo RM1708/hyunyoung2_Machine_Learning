@@ -25,6 +25,12 @@ LOG_DIR = os.path.join(os.getcwd(),"log/")
 EMBEDDING_SIZE = 3
 VOCA_SIZE = 3
 
+if not os.path.exists(LOG_DIR):
+    os.makedirs(LOG_DIR)
+    print(LOG_DIR+" is created!\n")
+else:
+    print("you have already"+LOG_DIR+" !\n")
+
 print("the current working directory:", LOG_DIR, "\n")
 
 LABEL_FILE = os.path.join(os.getcwd(), "log/lables.tsv")
