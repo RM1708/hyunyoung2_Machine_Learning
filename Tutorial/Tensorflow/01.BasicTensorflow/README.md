@@ -16,7 +16,7 @@
   
   05. [Getting_Started](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/05.Getting_Strated.ipynb): Get started of Tensorflow with basic way.
   
-  06. [Saving_and_Restoring](): Get started of Tensorflow with basic way.
+  06. [Saving_and_Restoring](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/01.BasicTensorflow/06.Saving_and_Restoring_of_Variables.ipynb): Get started of Tensorflow with basic way.
 
 # Reference
 
