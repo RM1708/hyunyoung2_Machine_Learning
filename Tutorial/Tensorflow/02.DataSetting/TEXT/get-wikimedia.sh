@@ -101,12 +101,12 @@ case "$choice" in
 esac
 
 # To get parsed wiki
-if [ -d "${WIKI_BY_WIKIEXTRACTOR}" ]; then 
+if [ -d "$WIKI_BY_WIKIEXTRACTOR" ]; then 
     echo "${WIKI_BY_WIKIEXTRACTOR}(symlink) already exsits!!"
-    echo "You don't need to make a directory for ${WIKI_BY_WIKIEXTRACTOR}" 
+    echo "You don't need to make a directory for $WIKI_BY_WIKIEXTRACTOR" 
     echo ""
 else
-    mkdir -p $"{WIKI_BY_WIKIEXTRACTOR}"
+    mkdir -p $WIKI_BY_WIKIEXTRACTOR
     echo "saving the parsed wiki in ${WIKI_BY_WIKIEXTRACTOR}"
 fi
 
