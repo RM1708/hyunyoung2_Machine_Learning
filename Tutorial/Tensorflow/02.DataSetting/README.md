@@ -5,6 +5,8 @@
   In here, I set up how to download and gain the dataset about **MNIST, CIFAR-10, and CIFAR-100** Basically used in Machine learning.
 
   Particulary, How to get them in Tensorflow.
+  
+  Besides, If you want to utilize a set of text such as wikipedia, TEXT directory has How to download and parse it. 
  
 # Index
 
