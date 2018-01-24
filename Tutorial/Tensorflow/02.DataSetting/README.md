@@ -12,6 +12,8 @@
 
   02. MNIST: How to download MNIST dataset in Tensorflow 
 
+  03. TEXT: How to download TEXT of wikipedia and parse it with opensource parser 
+  
   03. CIFAR_10: ~ing
 
 # Reference 
