@@ -4,6 +4,11 @@ In here, I will deal with how to get text for Machine learning using wikipedia.
 
 In Particular,about wikipedia text of Korean. 
 
+## TOC
+
+ 01. [wikimedia extractor](https://github.com/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/02.DataSetting/TEXT/get-wikimedia.sh)
+
+
 ### How to Download wikipedia 
 
  First, run get-wikipedia.sh
