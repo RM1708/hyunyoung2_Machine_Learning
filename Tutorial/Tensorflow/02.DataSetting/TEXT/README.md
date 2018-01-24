@@ -9,6 +9,10 @@ In Particular,about wikipedia text of Korean.
  01. [wikimedia extractor](https://github.com/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/02.DataSetting/TEXT/01.Wikimedia_Extractor.ipynb)
 
 
+## FILE 
+
+ Normalize_text_\*\*\*.sh mean normalizing text 
+
 ### How to Download wikipedia 
 
  First, run get-wikipedia.sh
