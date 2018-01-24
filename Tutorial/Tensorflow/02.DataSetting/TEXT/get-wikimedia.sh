@@ -110,7 +110,7 @@ else
     echo "saving the parsed wiki in ${WIKI_BY_WIKIEXTRACTOR}"
 fi
 
-if [ "$choice" == "j" ]; then 
+if [ "$choice" = "j" ]; then 
     if [ -d "$JSON" ]; then 
         python3 ${PARSING}"/"WikiExtractor.py -o $JSON --json ${ROOT}"/"kowiki-latest-pages-articles.xml.bz2
     else 
