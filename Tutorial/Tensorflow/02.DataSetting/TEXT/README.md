@@ -11,7 +11,7 @@ In Particular,about wikipedia text of Korean.
 
 ## FILE 
 
- Normalize_text_\*\*\*.sh mean normalizing text 
+ - **Normalize_text_\*\*\*.sh** means normalizing text 
 
 ### How to Download wikipedia 
 
