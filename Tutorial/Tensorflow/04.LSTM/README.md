@@ -14,3 +14,5 @@
  - [colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
  - [medium.com/mlreview](https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714)
+
+ - [Andrej Karpathy's RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
