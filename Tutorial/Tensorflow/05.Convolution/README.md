@@ -6,6 +6,9 @@
 
  The following is help site for those model, in partilcular CNN with text classification.
 
+ - [01-Tensorflow's Neural Network Convolution](): How to padding in tensorflow 
+
+
 # Reference 
 
  - [wildml's Understading Convolutional Neural Network for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
