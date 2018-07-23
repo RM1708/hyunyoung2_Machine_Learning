@@ -1,4 +1,4 @@
-# RNN(LSTM)
+# CNN(convolution) and so on
 
  This is for my study about Neural Network for Convoution on Tensorflow.
  
@@ -8,4 +8,7 @@
 
 # Reference 
 
+ - [wildml's Understading Convolutional Neural Network for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+
+ - [wildml's Implementing a CNN for Text Classification in Tensorflow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/#more-452)
 
