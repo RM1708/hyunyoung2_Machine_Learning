@@ -20,6 +20,6 @@
  
  - the way to deal with Variable sequence data on Tensorflow 
  
-  - [wildml's RNN in Tensorflow, a Practical Guide and Undocumented Features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
+   - [wildml's RNN in Tensorflow, a Practical Guide and Undocumented Features](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
   
-  - [Danijar Hanfer's Introduction to Recurrent Networks in Tensorflow](https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/)
+   - [Danijar Hanfer's Introduction to Recurrent Networks in Tensorflow](https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/)
