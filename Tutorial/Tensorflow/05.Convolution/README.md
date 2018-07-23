@@ -6,7 +6,7 @@
 
  The following is help site for those model, in partilcular CNN with text classification.
 
- - [01-Tensorflow's Neural Network Convolution](): How to padding in tensorflow 
+ - [01-Tensorflow's Neural Network Convolution](https://nbviewer.jupyter.org/github/hyunyoung2/hyunyoung2_Machine_Learning/blob/master/Tutorial/Tensorflow/05.Convolution/01-Tensorflow%27s%20Neural%20Network%20Convolution.ipynb): How to padding in tensorflow 
 
 
 # Reference 
