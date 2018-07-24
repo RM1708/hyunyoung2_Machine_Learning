@@ -30,7 +30,7 @@
  
   - [hum-kim : Korean ver.](https://hunkim.github.io/ml/)
  
-  - [BEOMSU KIM'S BLOG](hhttps://stackoverflow.com/questions/22385334/how-to-write-one-new-line-in-bitbucket-markdownttp://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
+  - [BEOMSU KIM'S BLOG](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html)
   
   - [Machinelearning mastery](https://machinelearningmastery.com/start-here/)
   
