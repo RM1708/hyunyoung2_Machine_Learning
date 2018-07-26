@@ -15,6 +15,8 @@
  - [Andrej Karpathy's RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
  
  - [Toward Data Science](https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537)
+ 
+ - [Sequence labeling with BI-LSTM with CRF](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
 
  - [R2RT's Written Memories: Understanding, Deriving and Extending the LSTM](https://r2rt.com/written-memories-understanding-deriving-and-extending-the-lstm.html)
  
